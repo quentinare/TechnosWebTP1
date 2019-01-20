@@ -1,0 +1,54 @@
+body { 
+background-color: #333333;
+background-image:url(image/photocv.jpg);
+background-position:0% 50%;
+background-repeat:no-repeat;
+ color: #003300;
+ font-family: Arial, Helvetica, sans-serif;
+}
+ 
+#title{
+background-color:#CED8F6;
+margin-top:0%;
+}	
+ 
+h1{
+ color:#003366; 
+ text-align:center;
+ }
+ .infos{
+	 background-color:#555555;
+	 text-align:center;
+	 height:100px;
+	 width:600px;
+	 margin-left:50%;
+ }
+
+ ul{
+	 text-decoration:none;
+	 color:#CED8F6;
+ }
+ 
+h3{background-color:#ffffcc;
+ color:#006600; }
+ 
+ a{
+	text-decoration:none;
+	color:#CED8F6;
+ }
+ 
+dd {font-style:italic;
+ font-size:.90em;
+ line-height:200%; }
+ 
+.logo{ background-color:#ffffcc;
+ color:#48751A; }
+ 
+.contact { font-family: "Times New Roman", serif;
+ font-size: .90em;
+ font-weight:bold; }
+ 
+
+ 
+#footer { font-size: .60em;
+ font-style: italic; } 
